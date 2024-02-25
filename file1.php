@@ -4,6 +4,6 @@
     <title>Тестируем Git</title>
 </head>
 <body>
-<?php echo '<p>Привет, мир!</p>'; ?>
+<?php echo '<p>Тестируем Git!</p>'; ?>
 </body>
 </html>
